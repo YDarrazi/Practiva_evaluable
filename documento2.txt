@@ -1,1 +1,2 @@
 Hola aqui se deberia de mostrar este mensaje en el documento2
+Aqui realizamos cambios en el documento2.txt en la rama main
