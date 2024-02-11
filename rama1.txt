@@ -1,0 +1,1 @@
+Aqui se deberia de mostrar todo el contenido que estamos escribiendo de rama1.txt
